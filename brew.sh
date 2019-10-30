@@ -15,7 +15,11 @@ brew install sass
 brew cask install docker
 brew cask install filezilla
 brew cask install firefox
+brew cask install goland
 brew cask install keepassxc
 brew cask install phpstorm
+brew cask install sublime-text
+brew cask install vagrant
+brew cask install virtualbox
 
 brew cleanup
