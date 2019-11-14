@@ -11,6 +11,7 @@ brew install htop
 brew install nvm
 brew install php
 brew install sass
+brew install tree
 
 brew cask install docker
 brew cask install dropbox
