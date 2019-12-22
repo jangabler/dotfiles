@@ -11,6 +11,7 @@ brew install htop
 brew install nvm
 brew install php
 brew install sass
+brew install tidy-html5
 brew install tree
 
 brew cask install docker
