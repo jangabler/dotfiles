@@ -1,0 +1,4 @@
+indent-spaces: 2
+indent: true
+tidy-mark: false
+wrap: 80
