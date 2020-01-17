@@ -1,4 +1,5 @@
 indent-spaces: 2
 indent: true
+quiet: true
 tidy-mark: false
 wrap: 80
