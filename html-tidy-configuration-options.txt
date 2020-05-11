@@ -1,5 +1,6 @@
 indent-spaces: 2
 indent: true
+output-html: true
 quiet: true
 tidy-mark: false
 wrap: 80
