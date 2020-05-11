@@ -11,6 +11,7 @@ brew install htop
 brew install nvm
 brew install php
 brew install sass
+brew install source-highlight
 brew install tidy-html5
 brew install tree
 
@@ -23,6 +24,7 @@ brew cask install google-chrome
 brew cask install keepassxc
 brew cask install miktex-console
 brew cask install mysqlworkbench
+brew cask install netnewswire
 brew cask install phpstorm
 brew cask install spotify
 brew cask install sublime-text
