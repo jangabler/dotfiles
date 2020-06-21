@@ -9,6 +9,7 @@ brew install gnupg
 brew install go
 brew install htop
 brew install nvm
+brew install pandoc
 brew install php
 brew install sass
 brew install source-highlight
