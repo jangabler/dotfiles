@@ -4,6 +4,7 @@ brew update
 
 brew upgrade
 
+brew install ffmpeg
 brew install git
 brew install gnupg
 brew install go
@@ -15,6 +16,7 @@ brew install sass
 brew install source-highlight
 brew install tidy-html5
 brew install tree
+brew install youtube-dl
 
 brew cask install docker
 brew cask install dropbox
