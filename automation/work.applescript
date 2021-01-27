@@ -1,0 +1,5 @@
+launch application "KeePassXC"
+launch application "Terminal"
+launch application "Microsoft Remote Desktop"
+launch application "Chrome"
+launch application "Spotify"
