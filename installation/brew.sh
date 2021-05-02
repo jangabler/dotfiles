@@ -7,8 +7,11 @@ brew install git
 brew install gnupg
 brew install go
 brew install gradle
+brew install graphviz
 brew install htop
+brew install libyaml
 brew install lynx
+brew install markdown
 brew install nvm
 brew install pandoc
 brew install php
