@@ -9,6 +9,7 @@ brew install go
 brew install gradle
 brew install graphviz
 brew install htop
+brew install jq
 brew install libyaml
 brew install lynx
 brew install markdown
@@ -27,7 +28,6 @@ brew install --cask another-redis-desktop-manager
 brew install --cask docker
 brew install --cask dropbox
 brew install --cask eclipse-jee
-brew install --cask filezilla
 brew install --cask firefox
 brew install --cask font-jetbrains-mono
 brew install --cask goland
@@ -37,6 +37,7 @@ brew install --cask miktex-console
 brew install --cask mysqlworkbench
 brew install --cask netnewswire
 brew install --cask phpstorm
+brew install --cask sequel-pro
 brew install --cask spotify
 brew install --cask sublime-text
 brew install --cask vagrant
