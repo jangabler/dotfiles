@@ -2,6 +2,7 @@
 
 brew update
 
+brew install composer
 brew install ffmpeg
 brew install git
 brew install gnupg
@@ -42,4 +43,5 @@ brew install --cask spotify
 brew install --cask sublime-text
 brew install --cask vagrant
 brew install --cask virtualbox
+brew install --cask visual-studio-code
 brew install --cask whatsapp
