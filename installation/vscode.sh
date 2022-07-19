@@ -7,6 +7,9 @@ code --install-extension esbenp.prettier-vscode
 code --install-extension GitHub.copilot
 code --install-extension GitHub.github-vscode-theme
 code --install-extension MS-CEINTL.vscode-language-pack-de
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension ms-vsliveshare.vsliveshare-audio
+code --install-extension ms-vsliveshare.vsliveshare-pack
 code --install-extension Pivotal.vscode-boot-dev-pack
 code --install-extension Pivotal.vscode-spring-boot
 code --install-extension redhat.java

@@ -3,6 +3,7 @@
 npm install --global @prettier/plugin-php
 npm install --global @prettier/plugin-pug
 npm install --global @prettier/plugin-xml
+npm install --global avif
 npm install --global eslint
 npm install --global jstransformer-markdown-it
 npm install --global prettier
