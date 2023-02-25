@@ -7,6 +7,7 @@ npm install --global avif
 npm install --global eslint
 npm install --global jstransformer-markdown-it
 npm install --global prettier
+npm install --global prettier-plugin-css-order
 npm install --global pug-cli
 npm install --global typescript
 npm install --global yarn

@@ -2,6 +2,7 @@
 
 brew update
 
+brew install bat
 brew install cloc
 brew install composer
 brew install ffmpeg
@@ -19,7 +20,9 @@ brew install nvm
 brew install pandoc
 brew install php
 brew install sass
+brew install scc
 brew install source-highlight
+brew install symfony-cli/tap/symfony-cli
 brew install tidy-html5
 brew install tree
 brew install webp
@@ -39,7 +42,6 @@ brew install --cask mysqlworkbench
 brew install --cask netnewswire
 brew install --cask phpstorm
 brew install --cask selfcontrol
-brew install --cask sequel-pro
 brew install --cask spotify
 brew install --cask vagrant
 brew install --cask virtualbox
