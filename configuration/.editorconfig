@@ -6,6 +6,8 @@ end_of_line = lf
 indent_size = 4
 indent_style = space
 insert_final_newline = true
+max_line_length = 80
+tab_width = 4
 trim_trailing_whitespace = true
 
 [*.html]
@@ -14,6 +16,7 @@ indent_size = 2
 [*.go]
 indent_size = 8
 indent_style = tab
+tab_width = 8
 
 [Makefile]
 indent_size = 4
