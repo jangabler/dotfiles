@@ -26,3 +26,7 @@ gitweb() {
 gitignore() {
     curl -sLw "\n" https://www.toptal.com/developers/gitignore/api/$@
 }
+
+curldiff() {
+    diff <(curl --silent $1) <(curl --silent $2)
+}
